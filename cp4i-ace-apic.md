@@ -2,6 +2,9 @@
 
 This document explains the steps needed to create the required artifacts in App Integration and API Management capabilities of IBM's Integration Platform using an existing OpenAPI v3.0 specification.
 
+The following diagram shows the different components involved in this article.
+
+![CP4I Intro](images/2021-11-24_01-13-17.png)
 
 ## Micro-Integration
 
