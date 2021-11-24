@@ -1,4 +1,4 @@
-# cp4i-tutorials
+# CP4I Tutorials
 
 A place to keep and share tiutorials I create for Cloud Pak for Integration Demos
 
