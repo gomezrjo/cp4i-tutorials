@@ -4,7 +4,7 @@ This document explains the steps needed to create the required artifacts in App 
 
 The following diagram shows the different components and personas involved in the process to create a solution like this.
 
-![CP4I Intro](images/2021-11-24_01-13-17.png)
+![CP4I Intro](images/2021-11-24_01-18-13.png)
 
 ## Micro-Integration
 
